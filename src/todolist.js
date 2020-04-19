@@ -1,6 +1,6 @@
 import React , {Component} from "react";
-import TodoItems from "./TodoItems"; 
-import "./TodoList.css";
+import TodoItems from "./ToDoItems"; 
+// import "./TodoList.css";
 class TodoList extends Component {
     constructor(props){
         super(props);
